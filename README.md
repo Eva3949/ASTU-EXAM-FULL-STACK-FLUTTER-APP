@@ -49,13 +49,9 @@ If you're interested in collaboration, contact me.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/images/home.png" width="45%" />
-  <img src="assets/images/shoot1.png" width="45%" />
-  <img src="assets/images/shoot2.png" width="45%" />
-  <img src="assets/images/shoot3.png" width="45%" />
-  <img src="assets/images/shoot4.png" width="45%" />
-  <img src="assets/images/shoot5.png" width="45%" />
-  <img src="assets/images/shoot6.png" width="45%" />
+  <img src="assets/images/shoot7.png" width="100%" />
+  <img src="assets/images/shoot6.png" width="100%" />
+  <img src="assets/images/shoot5.png" width="100%" />
 </p>
 
 ---
