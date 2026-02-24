@@ -48,17 +48,15 @@ If you're interested in collaboration, contact me.
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
-![Home Page](assets/images/home.png)
-
-### 📷 Screenshot 1
-![Screenshot 1](assets/images/shoot6.png)
-
-### 📷 Screenshot 2
-![Screenshot 2](assets/images/shoot7.png)
-
-### 📷 Screenshot 3
-![Screenshot 3](assets/images/shoot5.png)
+<p align="center">
+  <img src="assets/images/home.png" width="45%" />
+  <img src="assets/images/shoot1.png" width="45%" />
+  <img src="assets/images/shoot2.png" width="45%" />
+  <img src="assets/images/shoot3.png" width="45%" />
+  <img src="assets/images/shoot4.png" width="45%" />
+  <img src="assets/images/shoot5.png" width="45%" />
+  <img src="assets/images/shoot6.png" width="45%" />
+</p>
 
 ---
 
