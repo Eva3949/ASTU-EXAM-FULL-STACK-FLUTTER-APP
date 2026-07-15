@@ -49,9 +49,10 @@ If you're interested in collaboration, contact me.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/images/shoot6.png" width="100%" />
-  <img src="assets/images/shoot7.png" width="100%" />
-  <img src="assets/images/shoot5.png" width="100%" />
+  <img src="assets/images/sh8.png" width="100%" />
+  <img src="assets/images/sh9.png" width="100%" />
+  <img src="assets/images/sh10.png" width="100%" />
+  <img src="assets/images/sh12.png" width="100%" />
 </p>
 
 ---
