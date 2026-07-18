@@ -1,6 +1,7 @@
 # 🚀 ASTU-EXAM-FULL-STACK-FLUTTER-APP
 ## Live Demo: https://astuexam.netlify.app/
 ## 📌 Overview
+###This project is currently private.If you're interested in collaboration, contact me.
 ASTU EXAM APP is your ultimate tool for exam preparation. Access past papers, take mock exams, and track your progress with our intuitive and powerful features.
 
 ASTU E-Portal
