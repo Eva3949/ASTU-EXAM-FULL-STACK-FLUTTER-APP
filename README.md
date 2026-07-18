@@ -49,10 +49,10 @@ If you're interested in collaboration, contact me.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/images/sh8.png" width="50" />
-  <img src="assets/images/sh9.png" width="50%" />
-  <img src="assets/images/sh10.png" width="50%" />
-  <img src="assets/images/sh12.png" width="50%" />
+  <img src="assets/images/Sh8.png" width="50" />
+  <img src="assets/images/Sh9.png" width="50%" />
+  <img src="assets/images/Sh10.png" width="50%" />
+  <img src="assets/images/Sh12.png" width="50%" />
 </p>
 
 ---
